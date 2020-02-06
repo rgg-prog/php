@@ -17,7 +17,7 @@
 
 <body>
     <?php
-        if ($sumando1 + $sumando2 = $resultado) {
+        if ($sumando1 + $sumando2 == $resultado) {
             echo ("<H1>Es Correcto</H1>");
         } else {
             echo ("<H1>No sabes sumar</H1>");
